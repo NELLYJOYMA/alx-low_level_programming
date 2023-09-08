@@ -1,9 +1,11 @@
-#!/bin/bash
-gcc -xc - <<EOF
-#include <stdio.h>
-int main() {
-    puts("Programming is like building a multilingual puzzle");
-    return 0;
-}
-EOF
-./a.out
+#bin/bash
+#include<stdio.h>
+/**
+ *main-prints a string with puts()
+ *
+ * Return:NULL
+ */
+int main(void)
+{
+ puts("\"Programming is like building a multilingual puzzle");
+return(o) 
