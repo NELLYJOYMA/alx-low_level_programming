@@ -1,11 +1,10 @@
-#bin/bash
-#include<stdio.h>
+!/bin/bash
 /**
- *main-prints a string with puts()
- *
- * Return:NULL
- */
+*main-prints a string with puts()
+*
+* Return:null
+* /
 int main(void)
 {
- puts("\"Programming is like building a multilingual puzzle");
-return(o) 
+puts("\ "programming is like building a multilingual puzzle");
+return(0);
