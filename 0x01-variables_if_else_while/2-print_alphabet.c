@@ -4,7 +4,7 @@
  * main -Entry point
  * Retrn:Always 0
 */
-int main (void)
+int main(void)
 {
 int lowercase = 'a';
 while (lowercase <= 'z')
