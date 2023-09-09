@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
+ *
  * main -Entry point
  * Retrn:Always 0
 */
