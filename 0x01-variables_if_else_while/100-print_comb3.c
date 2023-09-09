@@ -27,6 +27,7 @@ else
 putchar(',');
 putchar(' ');
 }
+}
 j++;
 }
 i++;
