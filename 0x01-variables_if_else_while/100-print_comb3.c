@@ -28,9 +28,9 @@ putchar(',');
 putchar(' ');
 }
 }
-j++; 
+j++;
 }
-i++; 
+i++;
 }
 
 return (0);
