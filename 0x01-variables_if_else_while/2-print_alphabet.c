@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- *
+ 
+ 
  * main -Entry point
- * Retrn:Always 0
+ * Return:Always 0
 */
 int main(void)
 {
