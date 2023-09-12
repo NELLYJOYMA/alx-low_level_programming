@@ -6,7 +6,7 @@
 int main(void)
 {
 int i = 0;
-long j = 0, k = 1;
+long j =1, k = 1;
 while (i < 52)
 {
 if (i == 0)
