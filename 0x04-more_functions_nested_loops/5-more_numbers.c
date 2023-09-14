@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * more_numbers - prints numbers 0 to 14 10 times
+ * more_numbers - prints numbers 0 to 14 10 times horizontally
  * Return :Always 0
  */
 void more_numbers(void)
@@ -13,7 +13,7 @@ for (j = 0; j <= 14; j++)
 if (j >= 10)
 _putchar('1');
 _putchar(j % 10 + '0');
-_putchar('\n');
 }
+_putchar('\n');
 }
 }
