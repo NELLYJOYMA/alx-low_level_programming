@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * swap_int - swapping two intergers.
- * @: The first interger to be swipped
+ * @a: The first interger to be swipped
  * @b: The second interger to be swipped
  * Return: Always 0
  */
