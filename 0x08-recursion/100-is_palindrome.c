@@ -24,7 +24,7 @@ if (*(s + left) == *(s + right))
 {
 if (left == right || left == right + 1)
 return (1);
-return (0 + compare_string(s, left + 1, right - 1));
+return  (compare_string(s, left + 1, right - 1));
 }
 return (0);
 }
