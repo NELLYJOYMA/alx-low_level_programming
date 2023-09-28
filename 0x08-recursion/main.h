@@ -12,6 +12,5 @@ int wildcmp(char *s1, char *s2);
 int _putchar(char c);
 int sqrt_a(int a, int b);
 int prime_a(int a, int b);
-int compare_string(char *s, int right, int left);
-int _strlen_recursion(char *s);
+int comparator(char *s, int n1, int n2);
 #endif 
