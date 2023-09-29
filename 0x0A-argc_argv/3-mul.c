@@ -21,7 +21,7 @@ printf("%d\n", n1 *n2);
 }
 else
 {
-printf("error\n");
+printf("Error\n");
 return (1);
 }
 return (0);
