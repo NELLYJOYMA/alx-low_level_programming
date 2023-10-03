@@ -16,12 +16,12 @@ while (str[i])
 {
 i++;
 }
-s = malloc((sizeof(char) * i) + 1);
+s = malloc((sizeof(char) * i) +1);
 if (s == NULL)
 return (NULL);
 while (a < i)
 {
-s[a] = str[a];
+s[ai] = str[a];
 a++;
 }
 s[a] = '\0';
