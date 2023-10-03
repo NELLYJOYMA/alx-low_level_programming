@@ -21,7 +21,7 @@ if (s == NULL)
 return (NULL);
 while (a < i)
 {
-s[ai] = str[a];
+s[a] = str[a];
 a++;
 }
 s[a] = '\0';
