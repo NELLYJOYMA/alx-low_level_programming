@@ -1,6 +1,5 @@
-#define TABLESIZE BUFSIZE
-#define BUFSIZE 1024
-TABLESIZE
+#ifndef OBJECT_LIKE_MACRO_H
+#define OBJECT_LIKE_MACRO_H
+#define SIZE 1024
 
-==> BUFSIZE
-==> 1024
+#endif
