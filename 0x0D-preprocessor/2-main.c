@@ -1,9 +1,11 @@
-#ifndef  MAIN_H
-#define MAIN_H
+#include <stdio.h>
+/**
+ * main - prints the name  of the file
+ *
+ * Return: Always 0
 
 int main(void)
 {
-int (2-main.c);
-printf("The name of the file it was compiled from, /n");
-return (0)
+printf("%s\n", _FILE_);
+return (0);
 }
