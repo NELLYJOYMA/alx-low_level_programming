@@ -15,7 +15,7 @@ while (h)
 if (h->str == NULL)
 printf("[0] (nil)\n");
 else
-printf("[%d] %s\n",(int) h->len, h->str);
+printf("[%d] %s\n", (int) h->len, h->str);
 nodes++;
 h = h->next;
 }
