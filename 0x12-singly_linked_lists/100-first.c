@@ -6,7 +6,6 @@ void first(void) __attribute__((constructor));
  * first - prints a sentence before main
  * function es executed
  *
- * Return: Always 0
  */
 void first(void)
 {
